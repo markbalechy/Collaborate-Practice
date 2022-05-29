@@ -1,5 +1,4 @@
 # Collaborate-Practice
-
 This is a practice repository to learn how to contribute
 
-This is my first commit containing some errors. Hopefully someone can fix it!
+Thz is my first commit containing some errors. Hopefully someone can fix it!
