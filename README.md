@@ -4,5 +4,3 @@ This is a practice repository to learn how to contribute
 This is my second commit containing some errors. Hopefully someone can fix it!
 
 This is my third commit
-
-Test Add Commit
